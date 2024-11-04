@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: helvetica, sans-serif;
   background-color: #0a0a23;
   color: white;
 }
@@ -22,7 +22,7 @@ body {
   justify-self: start;
 }
 .header__logo img {
-  height: 60px;
+  height: 56px;
   border-radius: 20px;
 }
 .header__menu {
@@ -34,9 +34,9 @@ body {
   color: white;
   text-decoration: none;
   font-size: 18px;
-  border: 3px solid #9c27b0;
+  border: 3px solid #7f2090;
   text-decoration: uppercase;
-  background: #9c27b0;
+  background: #771e87;
   text-align: center;
 }
 .header__menu a:hover {
